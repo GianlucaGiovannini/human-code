@@ -1,0 +1,503 @@
+<mxfile host="65bd71144e">
+    <diagram id="bVFsE0yY-AD6hLbGB29M" name="Page-1">
+        <mxGraphModel dx="1047" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#0516FF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Procurarsi la ricetta della nonna" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2" target="5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="80" as="sourcePoint"/>
+                        <mxPoint x="200" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Ho tutti gli ingredienti?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="10" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="69.83999999999999" as="sourcePoint"/>
+                        <mxPoint x="360" y="69.83999999999999" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="340" y="70.14"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="Sì" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="150" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="49" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Fare una lista con gli ingredienti mancanti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Comprare gli ingredienti mancanti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="130" as="sourcePoint"/>
+                        <mxPoint x="259" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="419.89" y="100" as="sourcePoint"/>
+                        <mxPoint x="420" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;" parent="1" source="16" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Riscaldare il brodo in un pentolino" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;" parent="1" source="20" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Sminuzzare la pancetta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;" parent="1" source="23" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Preparare un trito fine con carote, cipolle e sedano" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;" parent="1" source="25" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Versare la pancetta in una casseruola con un filo d'olio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=none;html=1;" parent="1" source="27" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Accendere il fornello e far rosolare per qualche minuto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" parent="1" source="29" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Aggiungere il trito di verdure e far insaporire per 5-6 minuti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;" parent="1" source="31" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Aggiungere la carne macinata" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="700" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="33" target="74" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="800" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="Lasciar rosolare a lungo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="700" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;" parent="1" source="56" target="57" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Ho tutti gli utensili?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="200" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;" parent="1" source="57" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Cercare gli utensili mancanti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Comprare gli utensili mancanti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Sì" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="340" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260.0000000000001" y="320" as="sourcePoint"/>
+                        <mxPoint x="259" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="" style="endArrow=classic;html=1;" parent="1" target="5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="360" y="160" as="sourcePoint"/>
+                        <mxPoint x="330" y="110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="66" value="" style="endArrow=classic;html=1;" parent="1" target="56" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="359.9999999999999" y="360" as="sourcePoint"/>
+                        <mxPoint x="291.57894736842104" y="298.42105263157885" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="INIZIO RICETTA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="390" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="edgeStyle=none;html=1;" parent="1" source="74" target="76" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Versare gli spinaci nel tegame" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="" style="edgeStyle=none;html=1;" parent="1" source="76" target="78" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="Aggiungere poca acqua e coprire con un coperchio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="930" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="edgeStyle=none;html=1;" parent="1" source="78" target="80" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="" style="edgeStyle=none;html=1;" parent="1" source="78" target="86" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="Cuocere per 5-6 minuti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1010" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="edgeStyle=none;html=1;" parent="1" source="80" target="82" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="Scolare" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1090" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="" style="edgeStyle=none;html=1;" parent="1" source="82" target="97" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="Frullare nel mixer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="86" target="80" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="500" y="1129" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="" style="edgeStyle=none;html=1;" parent="1" source="86" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="590" y="1040" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="86" value="Gli spinaci sono appassiti?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="980" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="Aspettare qualche altro&amp;nbsp; minuto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="1010" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="endArrow=classic;html=1;entryX=0.656;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="86" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="649.38" y="1070" as="sourcePoint"/>
+                        <mxPoint x="649" y="1115" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="649" y="1100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="1020" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="Sì" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="1100" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="La purea pesa 100 gr?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="1130" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="97" target="74" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="1140" as="sourcePoint"/>
+                        <mxPoint x="160" y="870" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160.27999999999997" y="1140"/>
+                            <mxPoint x="170" y="1100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="102" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="1010" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="Sì" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="1260" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="" style="edgeStyle=none;html=1;" parent="1" source="104" target="108" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="Mescolare farina e uova" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="" style="edgeStyle=none;html=1;" parent="1" source="108" target="110" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="Impastare con la purea di spinaci" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="" style="edgeStyle=none;html=1;" parent="1" source="110" target="112" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="Avvolgere in una pellicola" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="" style="edgeStyle=none;html=1;" parent="1" source="112" target="122" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="Lasciare riposare per 30 minuti" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="" style="edgeStyle=none;html=1;" parent="1" source="115" target="104" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="&lt;span&gt;INIZIO NUOVA PREPARAZIONE&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1250" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="97" target="115" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="227" y="1300" as="sourcePoint"/>
+                        <mxPoint x="280" y="1360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="118" value="" style="edgeStyle=none;html=1;" parent="1" source="119" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="1893.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="126" value="" style="edgeStyle=none;html=1;" parent="1" source="119" target="124" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="&lt;span&gt;INIZIO NUOVA PREPARAZIONE&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1840" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" value="" style="edgeStyle=none;html=1;" parent="1" source="122" target="201" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="Controllare e mescolare il ragù" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1754" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="" style="edgeStyle=none;html=1;" parent="1" source="124" target="127" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="Scaldare il latte in un pentolino" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1950" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="" style="edgeStyle=none;html=1;" parent="1" source="127" target="129" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="Versare il burro e lasciarlo fondere" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2090" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="" style="edgeStyle=none;html=1;" parent="1" source="129" target="131" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="Aggiungere la farina e cuocere per pochi minuti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="" style="edgeStyle=none;html=1;" parent="1" source="131" target="133" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="Versare il latte caldo e mescolare bene" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" value="" style="edgeStyle=none;html=1;" parent="1" source="133" target="135" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="Aggiungere il sale e aromatizzare con la noce moscata" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2510" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="" style="edgeStyle=none;html=1;" parent="1" source="135" target="144" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="Mescolare fino ad ottenere la besciamella cremosa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="2710" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="139" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="580" y="2770" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="141" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="740" y="2770" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="147" value="" style="edgeStyle=none;html=1;" parent="1" source="144" target="145" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="Lasciare riposare per 30 minuti" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="Controllare e mescolare il ragù" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2834" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="148" value="" style="edgeStyle=none;html=1;" parent="1" source="149" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="2973.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="152" value="" style="edgeStyle=none;html=1;" parent="1" source="149" target="151" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="149" value="&lt;span&gt;INIZIO NUOVA PREPARAZIONE&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="2920" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="150" value="" style="edgeStyle=none;html=1;" parent="1" target="149" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="2893.9999999999995" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="156" value="" style="edgeStyle=none;html=1;" parent="1" source="151" target="155" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="151" value="Stendere la pasta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3030" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="158" value="" style="edgeStyle=none;html=1;" parent="1" source="155" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320.0000000000001" y="3269.9999999999995" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="155" value="Cuocere la sfoglia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="161" value="" style="edgeStyle=none;html=1;" parent="1" target="168" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="3300" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="166" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="3220" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="167" value="Sì" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="3370" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="175" value="" style="edgeStyle=none;html=1;" parent="1" source="168" target="169" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="168" value="Le sfoglie sono tutte cotte?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3240" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" value="" style="edgeStyle=none;html=1;" parent="1" source="169" target="173" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="Trasferire le sfogli su un vassoio con un canovaccio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="178" value="" style="edgeStyle=none;html=1;" parent="1" source="173" target="177" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="Comporre lo strato aggiungendo il ragù ad una sfoglia&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="176" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="168" target="155" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="3290" as="sourcePoint"/>
+                        <mxPoint x="540" y="3300" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="460" y="3230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="181" value="" style="edgeStyle=none;html=1;" parent="1" source="177" target="179" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="177" value="Aggiungere il parmigiano" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3690" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="" style="edgeStyle=none;html=1;" parent="1" source="179" target="183" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="179" value="Le sfoglie sono finite?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3790" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="179" target="173" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="3840" as="sourcePoint"/>
+                        <mxPoint x="470" y="3490" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="470" y="3780"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="182" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="3760" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="Cuocere in forno per 40 minuti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="3960" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="Sì" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="3920" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" value="" style="edgeStyle=none;html=1;" parent="1" target="187" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="3990" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="191" value="" style="edgeStyle=none;html=1;" parent="1" source="187" target="189" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="193" value="" style="edgeStyle=none;html=1;" parent="1" source="187" target="192" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="187" value="La lasagna è cotta?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="3930" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="188" value="" style="endArrow=classic;html=1;entryX=0.656;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="187" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="649.3800000000001" y="4020" as="sourcePoint"/>
+                        <mxPoint x="649" y="4065" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="649" y="4050"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="189" value="Aspettare qualche altro&amp;nbsp; minuto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="3960" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="190" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="3970" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="192" value="Servire" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="4092" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="194" value="Sì" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="4060" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="206" value="" style="edgeStyle=none;html=1;" parent="1" source="199" target="202" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="199" value="Aggiungere la passata di pomodoro" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="1844" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="205" value="" style="edgeStyle=none;html=1;" parent="1" source="200" target="199" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="200" value="Aspettare che il vino rosso evapori" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="1754" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="204" value="" style="edgeStyle=none;html=1;" parent="1" source="201" target="200" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" value="Sfumare il ragù con vino rosso" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="1754" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="207" value="" style="edgeStyle=none;html=1;" parent="1" source="202" target="119" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="202" value="Lasciare cuocere il ragù" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="1840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="208" value="" style="endArrow=classic;html=1;entryX=0.616;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="67" target="16" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="370" y="450" as="sourcePoint"/>
+                        <mxPoint x="420" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
